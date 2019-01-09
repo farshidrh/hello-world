@@ -1,2 +1,3 @@
 # hello-world
-Just another repositoty
+Hi everyone!
+I'm Farshid Rezaei. This is my first repository in GitHub.
